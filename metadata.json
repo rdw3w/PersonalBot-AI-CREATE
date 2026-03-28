@@ -1,0 +1,7 @@
+{
+  "name": "PersonaBot Platform",
+  "description": "A marketplace for creating and interacting with personalized AI clones of experts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
